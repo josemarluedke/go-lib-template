@@ -1,0 +1,9 @@
+{
+  "Name": "go-lib-example",
+  "Org": "neighborly",
+  "Author": "Neighborly",
+  "Year": "2019",
+  "License": [
+    "MIT"
+  ]
+}
