@@ -6,7 +6,7 @@ Go template for libraries
 
 ```sh
 go install github.com/tmrts/boilr
-boilr template save neighborly/go-lib-template go-lib
+boilr template download -f neighborly/go-lib-template go-lib
 ```
 
 ## Usage
